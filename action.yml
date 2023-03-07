@@ -1,0 +1,9 @@
+name: "S3 Head object"
+description: "Head object in AWS S3"
+author: streamamg
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: refresh-cw
+  color: green
